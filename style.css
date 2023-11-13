@@ -1,28 +1,29 @@
 body {
-    font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  text-align: center;
 }
 
 h1 {
-    color: #333;
+  color: #333;
 }
 
 form {
-    max-width: 400px;
-    margin: 0 auto;
+  max-width: 400px;
+  margin: 0 auto;
 }
 
 label {
-    display: block;
-    margin-bottom: 8px;
+  display: block;
+  margin-bottom: 8px;
 }
 
 input {
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 16px;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
 }
 
 a {
-    display: inline-block;
-    margin-right: 10px;
+  display: inline-block;
+  margin-right: 10px;
 }
