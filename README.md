@@ -32,3 +32,6 @@ Bu proje, PHP kullanılarak basit bir login sistemi oluşturmayı amaçlar. Aşa
 - `index.php` sayfasından kayıt olabilir ve giriş yapabilirsiniz.
 - Giriş yaptıktan sonra kullanıcı panelinden profilinizi güncelleyebilirsiniz.
 - Güvenlik önlemleri için şifreleme ve salting yöntemleri kullanılmıştır.
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/faruk-çağan-64062a271)
+l
