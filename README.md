@@ -14,12 +14,12 @@ Bu proje, PHP kullanılarak basit bir login sistemi oluşturmayı amaçlar. Aşa
 
 1. Bu depoyu bilgisayarınıza klonlayın veya ZIP olarak indirin.
     ```
-    git clone https://github.com/kullanici/adı.git
+    git clone https://github.com/farukcagan/php_login_page.git
     ```
 
 2. Proje dizinine gidin.
     ```
-    cd proje-dizin-adı
+    cd php_login_page
     ```
 
 3. `config.php` dosyasını açın ve veritabanı bağlantı bilgilerinizi ayarlayın.
