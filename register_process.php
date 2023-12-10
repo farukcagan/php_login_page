@@ -13,6 +13,8 @@ $result = mysqli_query($conn, $query);
 
 if ($result) {
     echo "Üye kaydı başarıyla tamamlandı. Giriş yapabilirsiniz.";
+    header("refresh:3;url=login.php"); 
+
 } else {
     echo "Üye kaydı sırasında bir hata oluştu. Hata: " . mysqli_error($conn);
 }
