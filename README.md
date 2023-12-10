@@ -8,6 +8,7 @@ Bu proje, PHP kullanılarak basit bir login sistemi oluşturmayı amaçlar. Aşa
 - Kullanıcı girişi
 - Oturum yönetimi
 - Güvenlik önlemleri
+- post ve yorum ekleme
 
 ## Kurulum
 
