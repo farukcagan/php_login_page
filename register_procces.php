@@ -7,12 +7,12 @@ $username = $_POST['username'];
 $password = $_POST['password'];
 $email = $_POST['email'];
 
-// Veritabanına ekleme işlemi
+// Veritabanına ekleme sorgusu
 $query = "INSERT INTO users (username, password, email) VALUES ('$username', '$password', '$email')";
 $result = mysqli_query($conn, $query);
 
 if ($result) {
-    echo "Üye kaydı başarıyla tamamlandı. Giriş yapabilirsiniz.";
+    echo "Üye kaydı başarıyla tamamlandı. Hoş geldiniz, $username!";
 } else {
     echo "Üye kaydı sırasında bir hata oluştu. Lütfen tekrar deneyin.";
 }
